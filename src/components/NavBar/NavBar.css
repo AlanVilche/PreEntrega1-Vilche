@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    align-items: center;
+     justify-content: space-between;
+    border-bottom: 2px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    color: black
+    !important;
+    font-size: 20px;
+    /* box-shadow: 60px -16px teal; */
+}
+
+h1{
+    margin-right:200px;
+    margin-top:-5px;
+    margin-left:60px;
+    margin-bottom:-3px;
+}
+
+.div{
+ 
+    align-items: center;
+}
+
+

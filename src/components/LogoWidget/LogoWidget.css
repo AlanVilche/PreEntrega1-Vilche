@@ -1,0 +1,11 @@
+.imgLogo {
+    animation-duration: 3s;
+   animation-name: slidein; 
+   background-color: white;
+   margin-right: 500px;
+   width: 20rem;
+   height: 6rem; 
+   border:1px solid black;
+   cursor: pointer;
+}
+   
